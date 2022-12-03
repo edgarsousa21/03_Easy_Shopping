@@ -7,7 +7,7 @@
   <p><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></p>
   <br>
  <h2>Versão Para Desktop:</h2> 
-<img src="https://github.com/edgarsousa21/easy-shopping/blob/master/img/Cellgirl_pc.png?raw=true"> 
+<img src="https://github.com/edgarsousa21/03_Easy_Shopping/blob/master/img/Cellgirl_pc.png?raw=true"> 
   
 <h2>Versão Para Celular:</h2> 
-<img src="https://github.com/edgarsousa21/easy-shopping/blob/master/img/Cellgirl_cel.png?raw=true">
+<img src="https://github.com/edgarsousa21/03_Easy_Shopping/blob/master/img/Girl_Cellphone.png?raw=true">
